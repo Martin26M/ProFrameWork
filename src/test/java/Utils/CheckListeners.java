@@ -35,6 +35,7 @@ public class CheckListeners  extends TestUtil implements ITestListener {
 	public void onTestFailure(ITestResult result) {
 		
 		check in new changes ;
+		New changes pulled from GIT;
 		
 		
 		
