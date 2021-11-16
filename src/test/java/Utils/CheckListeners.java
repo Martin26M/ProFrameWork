@@ -34,6 +34,8 @@ public class CheckListeners  extends TestUtil implements ITestListener {
 	@Override
 	public void onTestFailure(ITestResult result) {
 		
+		check in new changes ;
+		
 		
 		
 		

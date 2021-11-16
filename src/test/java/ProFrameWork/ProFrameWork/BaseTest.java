@@ -43,7 +43,7 @@ public class BaseTest {
 			driver.get(prop.getProperty("url"));
 			driver.manage().deleteAllCookies();
 			driver.manage().window().maximize();
-			New Changes
+			New Changes added for git practice
 
 		}
 
